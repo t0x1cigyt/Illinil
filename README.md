@@ -14,9 +14,9 @@ Automatically install all Kali linux tools
 
 # Installation
 - sudo su
-- git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
-- chmod +x /usr/bin/katoolin
-- sudo katoolin 
+- git clone https://github.com/t0x1cigyt/Illinil.git && cp illinil/illinil.py /usr/bin/illinil
+- chmod +x /usr/bin/illinil
+- sudo illinil
 
 # Usage
 - Typing the number of a tool will install it
