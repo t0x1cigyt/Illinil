@@ -10,7 +10,7 @@ Automatically install all Kali linux tools
 
 # Requirements
 - Python 2.7
-- An operating system (tested on Ubuntu,Debian)
+- An operating system (Tested on Ubuntu, Debian and Kali linux)
 
 # Installation
 - sudo su
