@@ -14,7 +14,7 @@ Automatically install all Kali linux tools
 
 # Installation
 - sudo su
-- git clone https://github.com/t0x1cigyt/Illinil.git && cp illinil.py /usr/bin/illinil
+- git clone https://github.com/t0x1cigyt/Illinil.git && cp /root/illinil.py /usr/bin/illinil
 - chmod +x /root/Illinil
 - sudo illinil
 
